@@ -1,2 +1,0 @@
-# SCMPC_BDCVI
-Holas
